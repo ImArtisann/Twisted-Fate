@@ -1,9 +1,9 @@
 # Twisted-Fate
 
 Uses
-MongoDB
-Discord JDA
-RIOT API
+MongoDB,
+Discord JDA,
+RIOT API,
 Topgg api for stats
 
 How the bot functions
